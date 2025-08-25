@@ -10,3 +10,6 @@ _UpgradeReport_Files/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+Module/EditorHelper2.dll
+Module/Libraries/EditorHelper2.common.dll
